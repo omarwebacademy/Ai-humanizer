@@ -1,5 +1,5 @@
 """
-ULTRA-HUMANIZER PRO - Advanced Content Naturalizer
+Ai HUMANIZER PRO - Advanced Content Naturalizer
 v2.3 - Developed with 100% human intelligence
 """
 
